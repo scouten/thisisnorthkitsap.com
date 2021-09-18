@@ -1,8 +1,19 @@
 base_url = "https://thisisnorthkitsap.com"
+
+title = "This Is North Kitsap"
+description = "My photoblog from places close to home."
+default_language = "en"
+
+theme = "zola-es-theme"
+
 compile_sass = true
 build_search_index = true
 
+generate_feed = true
+feed_filename = "rss.xml"
+
 [markdown]
 highlight_code = false
+smart_punctuation = true
 
 [extra]
