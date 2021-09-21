@@ -1,7 +1,6 @@
 +++
 title = "The Battle of Port Gamble"
 date = 2009-06-21
-updated = 2021-09-14T20:56:32-07:00
 
 [extra]
 route = "Port Gamble, Washington"
