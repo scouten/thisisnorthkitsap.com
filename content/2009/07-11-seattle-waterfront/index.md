@@ -1,7 +1,7 @@
 +++
 title = "Seattle Waterfront"
 date = 2009-07-11T21:45:37.00-07:00
-updated = 2021-09-23T21:49:40-07:00
+updated = 2009-09-08T22:33:25-07:00
 
 [extra]
 markers = "markers.js"
