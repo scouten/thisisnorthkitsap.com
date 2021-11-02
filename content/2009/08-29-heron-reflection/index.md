@@ -9,8 +9,8 @@ bounds = {sw = [47.723, -122.656], ne = [47.743, -122.636]}
 cover = "es-1529-062"
 +++
 
-Very calm water in downtown Poulsbo means a great heron reflection ...
+We had an especially calm morning today. I happened to be downtown by the boat landing and found this heron watching the passing scene with a beautiful reflection.
 
 <!-- more -->
 
-{{ es_image(id="es-1529-062", caption = "Very calm water in downtown Poulsbo means a great heron reflection …") }}
+{{ es_image(id="es-1529-062") }}
