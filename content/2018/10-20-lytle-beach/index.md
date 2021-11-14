@@ -1,7 +1,7 @@
 +++
 title = "Lytle Beach"
-date = 2018-10-20T09:32:58.602
-updated = 2021-11-13T19:09:33-07:00
+date = 2018-10-20T09:32:58.602-08:00
+updated = 2021-11-13T19:09:33-08:00
 
 [extra]
 route = "Lytle Beach, Bainbridge Island, Washington"

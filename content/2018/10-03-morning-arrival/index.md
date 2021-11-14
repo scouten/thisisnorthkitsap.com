@@ -1,7 +1,7 @@
 +++
 title = "Morning Arrival"
-date = 2018-10-03T07:42:19.118
-updated = 2021-11-13T18:55:17-07:00
+date = 2018-10-03T07:42:19.118-08:00
+updated = 2021-11-13T18:55:17-08:00
 
 [extra]
 route = "Ferry Terminal, Bainbridge Island, Washington"
