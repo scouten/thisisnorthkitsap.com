@@ -1,7 +1,7 @@
 +++
 title = "Frost on the Beach"
-date = 2018-12-07T08:00:16.781
-updated = 2021-11-13T19:14:33-07:00
+date = 2018-12-07T08:00:16.781-08:00
+updated = 2021-11-13T19:14:33-08:00
 
 [extra]
 route = "Pleasant Beach, Bainbridge Island, Washington"
