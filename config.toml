@@ -17,5 +17,6 @@ highlight_code = false
 smart_punctuation = true
 
 [extra]
+endmark = true
 map_clustering = false
 is_dark = true
