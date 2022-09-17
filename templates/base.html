@@ -1,0 +1,10 @@
+{% extends "zola-es-theme/templates/base.html" -%}
+
+{% block brand -%}
+<div class="es-com">
+  <div class="full-name">
+    <a href="/"><img src="/common/es-logo.png" width="48" height="48" alt="" />&thinsp;this&thinsp;is&thinsp;<span class="scouten">north&thinsp;kitsap.</span></a></div>
+  <div class="short-name">
+    <a href="/"><img src="/common/es-logo.png" width="48" height="48" alt="" />&thinsp;.nk</a>{% if page_title %}<span class="title">&thinsp;> <a href="#top">{{ page_title }}</a></span>{% endif %}</div>
+</div>
+{% endblock brand -%}
