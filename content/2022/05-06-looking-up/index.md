@@ -6,7 +6,6 @@ updated = 2022-05-27T20:19:15-06:00
 [taxonomies]
 
 [extra]
-comments = true
 markers = "markers.js"
 bounds = {sw = [47.774, -122.554], ne = [47.794, -122.534]}
 cover = "es-4338-014"
