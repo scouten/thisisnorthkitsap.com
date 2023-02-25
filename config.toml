@@ -20,3 +20,5 @@ smart_punctuation = true
 endmark = true
 map_clustering = false
 is_dark = true
+es_site = "thisisnorthkitsap"
+article_type = "Kitsap photo stories"
