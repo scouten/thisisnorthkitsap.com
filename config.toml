@@ -25,3 +25,5 @@ map_clustering = false
 is_dark = true
 es_site = "thisisnorthkitsap"
 article_type = "Kitsap photo stories"
+fathom_site_id = "NLYTYGEA"
+plausible_site_id = "thisisnorthkitsap.com"
