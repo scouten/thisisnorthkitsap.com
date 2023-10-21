@@ -26,3 +26,5 @@ is_dark = true
 es_site = "thisisnorthkitsap"
 article_type = "Kitsap photo stories"
 fathom_site_id = "NLYTYGEA"
+section_reverse_default = true
+comments_enabled_default = false
