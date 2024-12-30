@@ -7,6 +7,7 @@ updated = 2024-06-10T09:25:05-07:00
 markers = "markers.js"
 bounds = {sw = [47.770, -122.550], ne = [47.790, -122.530]}
 cover = "es-4660-002"
+cover_cdn_key = "img/v1/2024/05/es-4660-002"
 +++
 
 I love how lush our forests are this time of year. From a hike this morning ...
@@ -15,4 +16,4 @@ I love how lush our forests are this time of year. From a hike this morning ...
 
 North Kitsap Heritage Park, west of Kingston, Washington
 
-{{ es_image(id = "es-4660-002") }}
+{{ es_cdn_image(id = "es-4660-002", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4660-002") }}

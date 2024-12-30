@@ -7,10 +7,11 @@ updated = 2024-05-08T12:57:58-07:00
 markers = "markers.js"
 bounds = {sw = [47.772, -122.549], ne = [47.791, -122.529]}
 cover = "es-4644-024"
+cover_cdn_key = "img/v1/2024/04/es-4644-024"
 +++
 
 <!-- more -->
 
 North Kitsap Heritage Park, west of Kingston, Washington
 
-{{ es_image(id = "es-4644-024", caption = "A hiking trail through a lush forest.") }}
+{{ es_cdn_image(id = "es-4644-024", cdn_version = "v1", cdn_key = "img/v1/2024/04/es-4644-024", caption = "A hiking trail through a lush forest.") }}
