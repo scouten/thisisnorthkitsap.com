@@ -10,10 +10,11 @@ route = "North Kitsap Heritage Park, west of Kingston, Washington"
 markers = "markers.js"
 bounds = {sw = [47.771, -122.556], ne = [47.791, -122.536]}
 cover = "es-4431-034"
+cover_cdn_key = "img/v1/2022/11/es-4431-034"
 +++
 
 I often go for walks in the woods near my home. This morning, I enjoyed how the diffuse cloudy light flowed through the trees.
 
 <!-- more -->
 
-{{ es_image(id="es-4431-034") }}
+{{ es_cdn_image(id = "es-4431-034", cdn_version = "v1", cdn_key = "img/v1/2022/11/es-4431-034") }}
