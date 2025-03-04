@@ -7,10 +7,11 @@ updated = 2021-09-25T22:27:38-07:00
 markers = "markers.js"
 bounds = {sw = [47.596, -122.445], ne = [47.616, -122.425]}
 cover = "es-1217-030"
+cover_cdn_key = "img/v1/2007/10/es-1217-030"
 +++
 
 This is Seattle at its best: fresh ocean air, a clear morning, a hint of fog, a ferry, the skyline … life is good.
 
 <!-- more -->
 
-{{ es_image(id="es-1217-030", caption = "Ferry from Bainbridge Island to Seattle, Washington") }}
+{{ es_cdn_image(id = "es-1217-030", cdn_version = "v1", cdn_key = "img/v1/2007/10/es-1217-030", caption = "Ferry from Bainbridge Island to Seattle, Washington") }}

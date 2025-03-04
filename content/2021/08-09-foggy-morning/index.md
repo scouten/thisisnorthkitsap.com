@@ -7,10 +7,11 @@ route = "northeast of Poulsbo, Washington"
 markers = "markers.js"
 bounds = {sw = [47.784, -122.595], ne = [47.804, -122.575]}
 cover = "es-4241-001"
+cover_cdn_key = "img/v1/2021/08/es-4241-001"
 +++
 
 Ok, yes, I'll admit that fog is a recurring theme. But it's part of what makes this place special for me.
 
 <!-- more -->
 
-{{ es_image(id="es-4241-001") }}
+{{ es_cdn_image(id = "es-4241-001", cdn_version = "v1", cdn_key = "img/v1/2021/08/es-4241-001") }}

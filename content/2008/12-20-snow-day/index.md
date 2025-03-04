@@ -7,10 +7,11 @@ updated = 2021-10-17T13:09:49-07:00
 markers = "markers.js"
 bounds = {sw = [47.758, -122.651], ne = [47.778, -122.631]}
 cover = "es-1367-009"
+cover_cdn_key = "img/v1/2008/12/es-1367-009"
 +++
 
 Our weathermen have predicted five of the last three storms to hit the Kitsap Peninsula. This time, they correctly predicted snow, but also predicted a major windstorm that didn't happen. Regardless, it was a nice day to get out and capture the essence of winter farming.
 
 <!-- more -->
 
-{{ es_image(id="es-1367-009") }}
+{{ es_cdn_image(id = "es-1367-009", cdn_version = "v1", cdn_key = "img/v1/2008/12/es-1367-009") }}

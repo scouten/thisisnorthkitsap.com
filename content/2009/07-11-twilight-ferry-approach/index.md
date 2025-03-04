@@ -7,6 +7,7 @@ updated = 2009-07-20T22:04:51-07:00
 markers = "markers.js"
 bounds = {sw = [47.593, -122.349], ne = [47.613, -122.329]}
 cover = "es-1475-184"
+cover_cdn_key = "img/v1/2009/07/es-1475-184"
 +++
 
 This is a follow-up to the popular [Late Night Arrival: Seattle](../07-11-late-night-arrival-seattle/). A few minutes before that image (a long exposure of cars unloading), I caught this one with the oh-so-gorgeous (did I just say that?) reflections in the blue twilight.
@@ -15,4 +16,4 @@ This is a follow-up to the popular [Late Night Arrival: Seattle](../07-11-late-n
 
 Ferry Terminal, Seattle, Washington
 
-{{ es_image(id="es-1475-184") }}
+{{ es_cdn_image(id = "es-1475-184", cdn_version = "v1", cdn_key = "img/v1/2009/07/es-1475-184") }}

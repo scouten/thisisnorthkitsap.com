@@ -7,6 +7,7 @@ updated = 2021-10-30T18:30:57-07:00
 markers = "markers.js"
 bounds = {sw = [47.724, -122.657], ne = [47.744, -122.637]}
 cover = "es-1502-024"
+cover_cdn_key = "img/v1/2009/08/es-1502-024"
 +++
 
 This morning we had unusual calm in the bay. This was the scene looking out from the Port of Poulsbo across Liberty Bay. Love the reflections ... it almost has a New England-ish flavor to it.
@@ -15,4 +16,4 @@ This morning we had unusual calm in the bay. This was the scene looking out from
 
 Poulsbo, Washington
 
-{{ es_image(id="es-1502-024") }}
+{{ es_cdn_image(id = "es-1502-024", cdn_version = "v1", cdn_key = "img/v1/2009/08/es-1502-024") }}

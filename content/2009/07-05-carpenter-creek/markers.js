@@ -1,5 +1,5 @@
 function addGpxMarkers(map) {
     return [
-        addGpxMarker(map, "es-1469-049", 47.794875, -122.512092),
+        addCdnGpxMarker(map, "es-1469-049", 47.794875, -122.512092, "img/v1/2009/07/es-1469-049"),
     ]
 }

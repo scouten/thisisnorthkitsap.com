@@ -7,6 +7,7 @@ updated = 2009-07-12T23:32:49-07:00
 markers = "markers.js"
 bounds = {sw = [47.593, -122.349], ne = [47.613, -122.329]}
 cover = "es-1475-234a"
+cover_cdn_key = "img/v1/2009/07/es-1475-234a"
 +++
 
 Vehicles exiting the MV Tacoma at the Colman Dock ferry terminal in Seattle. This exposure was taken from the pedestrian walkway above the vehicle ramp. An 8-second exposure was used to make the headlight trails.
@@ -15,4 +16,4 @@ Vehicles exiting the MV Tacoma at the Colman Dock ferry terminal in Seattle. Thi
 
 Ferry Terminal, Seattle, Washington
 
-{{ es_image(id="es-1475-234a") }}
+{{ es_cdn_image(id = "es-1475-234a", cdn_version = "v1", cdn_key = "img/v1/2009/07/es-1475-234a") }}

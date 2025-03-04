@@ -7,6 +7,7 @@ updated = 2009-07-25T00:34:46-07:00
 markers = "markers.js"
 bounds = {sw = [47.9, -122.567], ne = [47.92, -122.547]}
 cover = "es-1469-011"
+cover_cdn_key = "img/v1/2009/07/es-1469-011"
 +++
 
 Kayakers and a dog enjoy a lazy Sunday afternoon at Buck Lake Park near Hansville.
@@ -15,6 +16,6 @@ Kayakers and a dog enjoy a lazy Sunday afternoon at Buck Lake Park near Hansvill
 
 Buck Lake Park, near Hansville, Washington
 
-{{ es_image(id="es-1469-011", title = "Buck Lake", caption = "Kayakers and a dog enjoy a lazy Sunday afternoon at Buck Lake Park near Hansville.
+{{ es_cdn_image(id = "es-1469-011", cdn_version = "v1", cdn_key = "img/v1/2009/07/es-1469-011", title = "Buck Lake", caption = "Kayakers and a dog enjoy a lazy Sunday afternoon at Buck Lake Park near Hansville.
 
 Buck Lake Park, near Hansville, Washington") }}

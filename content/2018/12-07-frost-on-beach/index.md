@@ -8,8 +8,9 @@ route = "Pleasant Beach, Bainbridge Island, Washington"
 markers = "markers.js"
 bounds = {sw = [47.594, -122.561], ne = [47.614, -122.541]}
 cover = "es-3840-014"
+cover_cdn_key = "img/v1/2018/12/es-3840-014"
 +++
 
 <!-- more -->
 
-{{ es_image(id="es-3840-014", title = "Frost on Pleasant Beach") }}
+{{ es_cdn_image(id = "es-3840-014", cdn_version = "v1", cdn_key = "img/v1/2018/12/es-3840-014", title = "Frost on Pleasant Beach") }}

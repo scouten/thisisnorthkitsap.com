@@ -7,8 +7,9 @@ route = "Liberty Bay, Poulsbo, Washington"
 markers = "markers.js"
 bounds = {sw = [47.724, -122.657], ne = [47.744, -122.637]}
 cover = "es-4268-035"
+cover_cdn_key = "img/v1/2021/11/es-4268-035"
 +++
 
 <!-- more -->
 
-{{ es_image(id="es-4268-035", caption = "Liberty Bay, Poulsbo, Washington") }}
+{{ es_cdn_image(id = "es-4268-035", cdn_version = "v1", cdn_key = "img/v1/2021/11/es-4268-035", caption = "Liberty Bay, Poulsbo, Washington") }}

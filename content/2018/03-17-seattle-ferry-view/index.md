@@ -8,9 +8,9 @@ markers = "markers.js"
 route = "Ferry from Bainbridge Island to Seattle, Washington"
 bounds = {sw = [47.596, -122.387], ne = [47.616, -122.367]}
 cover = "es-3718-015"
+cover_cdn_key = "img/v1/2018/03/es-3718-015"
 +++
 
 <!-- more -->
 
-{{ es_image(id = "es-3718-015") }}
-
+{{ es_cdn_image(id = "es-3718-015", cdn_version = "v1", cdn_key = "img/v1/2018/03/es-3718-015") }}

@@ -7,6 +7,7 @@ updated = 2009-07-29T21:49:18-07:00
 markers = "markers.js"
 bounds = {sw = [47.703, -122.577], ne = [47.723, -122.557]}
 cover = "es-1487-002a"
+cover_cdn_key = "img/v1/2009/07/es-1487-002a"
 +++
 
 Water looks awfully good on a crazy hot day like today, doesn't it?
@@ -19,4 +20,4 @@ Here's hoping for the return of cooler weather soon.
 
 Agate Pass Bridge, east of Poulsbo, Washington
 
-{{ es_image(id="es-1487-002a") }}
+{{ es_cdn_image(id = "es-1487-002a", cdn_version = "v1", cdn_key = "img/v1/2009/07/es-1487-002a") }}

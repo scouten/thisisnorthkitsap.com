@@ -8,8 +8,9 @@ route = "Lytle Beach, Bainbridge Island, Washington"
 markers = "markers.js"
 bounds = {sw = [47.587, -122.552], ne = [47.607, -122.532]}
 cover = "es-3828-007"
+cover_cdn_key = "img/v1/2018/10/es-3828-007"
 +++
 
 <!-- more -->
 
-{{ es_image(id="es-3828-007") }}
+{{ es_cdn_image(id = "es-3828-007", cdn_version = "v1", cdn_key = "img/v1/2018/10/es-3828-007") }}

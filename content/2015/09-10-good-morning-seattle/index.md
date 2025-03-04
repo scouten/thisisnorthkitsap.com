@@ -7,6 +7,7 @@ updated = 2023-10-15T16:53:57-07:00
 markers = "markers.js"
 bounds = {sw = [47.593, -122.351], ne = [47.613, -122.331]}
 cover = "es-2911-013"
+cover_cdn_key = "img/v1/2015/09/es-2911-013"
 +++
 
 Gotta say, I have a pretty nice commute!
@@ -15,4 +16,4 @@ Gotta say, I have a pretty nice commute!
 
 Ferry from Bainbridge Island to Seattle, Washington
 
-{{ es_image(id = "es-2911-013") }}
+{{ es_cdn_image(id = "es-2911-013", cdn_version = "v1", cdn_key = "img/v1/2015/09/es-2911-013") }}

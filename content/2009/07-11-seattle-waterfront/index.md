@@ -7,6 +7,7 @@ updated = 2009-09-08T22:33:25-07:00
 markers = "markers.js"
 bounds = {sw = [47.593, -122.35], ne = [47.613, -122.33]}
 cover = "es-1476-002"
+cover_cdn_key = "img/v1/2009/07/es-1476-002"
 +++
 
 Some evenings are just too beautiful to pass up. This is the Seattle skyline seen from the ferry headed to Bainbridge.
@@ -15,4 +16,4 @@ Some evenings are just too beautiful to pass up. This is the Seattle skyline see
 
 Ferry from Seattle to Bainbridge Island, Washington
 
-{{ es_image(id="es-1476-002") }}
+{{ es_cdn_image(id = "es-1476-002", cdn_version = "v1", cdn_key = "img/v1/2009/07/es-1476-002") }}

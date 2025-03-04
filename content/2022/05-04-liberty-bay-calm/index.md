@@ -9,8 +9,9 @@ updated = 2022-05-27T16:23:37-06:00
 markers = "markers.js"
 bounds = {sw = [47.725, -122.658], ne = [47.745, -122.638]}
 cover = "es-4338-003"
+cover_cdn_key = "img/v1/2022/05/es-4338-003"
 +++
 
 <!-- more -->
 
-{{ es_image(id="es-4338-003", caption = "Liberty Bay, Poulsbo, Washington") }}
+{{ es_cdn_image(id = "es-4338-003", cdn_version = "v1", cdn_key = "img/v1/2022/05/es-4338-003", caption = "Liberty Bay, Poulsbo, Washington") }}

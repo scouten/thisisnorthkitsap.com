@@ -7,6 +7,7 @@ updated = 2024-11-05T20:35:02-08:00
 markers = "markers.js"
 bounds = {sw = [47.612, -122.518], ne = [47.632, -122.498]}
 cover = "es-4117-011"
+cover_cdn_key = "img/v1/2020/09/es-4117-011"
 +++
 
 One ferry, as seen from another.
@@ -17,4 +18,4 @@ As my mom says, "Everything's pewter out here today."
 
 Ferry from Bainbridge Island to Seattle, Washington
 
-{{ es_image(id = "es-4117-011") }}
+{{ es_cdn_image(id = "es-4117-011", cdn_version = "v1", cdn_key = "img/v1/2020/09/es-4117-011") }}

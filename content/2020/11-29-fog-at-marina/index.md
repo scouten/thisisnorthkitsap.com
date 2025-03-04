@@ -7,8 +7,9 @@ route = "Poulsbo, Washington"
 markers = "markers.js"
 bounds = {sw = [47.718, -122.653], ne = [47.738, -122.633]}
 cover = "es-4154-013"
+cover_cdn_key = "img/v1/2020/11/es-4154-013"
 +++
 
 <!-- more -->
 
-{{ es_image(id="es-4154-013") }}
+{{ es_cdn_image(id = "es-4154-013", cdn_version = "v1", cdn_key = "img/v1/2020/11/es-4154-013") }}
