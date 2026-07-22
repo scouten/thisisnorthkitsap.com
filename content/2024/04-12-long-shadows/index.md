@@ -8,6 +8,7 @@ markers = "markers.js"
 bounds = {sw = [47.771, -122.534], ne = [47.791, -122.514]}
 cover = "es-4639-012"
 cover_cdn_key = "img/v1/2024/04/es-4639-012"
+cover_alt = "A dirt trail winds through a forest of tall, slender deciduous trees just beginning to leaf out in spring, with sunlight filtering through the canopy. Lush green ferns and undergrowth line both sides of the path, and darker evergreens rise in the background."
 +++
 
 Late afternoon sunlight casts long shadows through a forest along a hiking trail.
@@ -16,4 +17,4 @@ Late afternoon sunlight casts long shadows through a forest along a hiking trail
 
 North Kitsap Heritage Park, west of Kingston, Washington
 
-{{ es_cdn_image(id = "es-4639-012", cdn_version = "v1", cdn_key = "img/v1/2024/04/es-4639-012") }}
+{{ es_cdn_image(id = "es-4639-012", cdn_version = "v1", cdn_key = "img/v1/2024/04/es-4639-012", alt = "A dirt trail winds through a forest of tall, slender deciduous trees just beginning to leaf out in spring, with sunlight filtering through the canopy. Lush green ferns and undergrowth line both sides of the path, and darker evergreens rise in the background.") }}

@@ -8,10 +8,11 @@ markers = "markers.js"
 bounds = {sw = [47.823, -122.600], ne = [47.843, -122.580]}
 cover = "es-4634-026"
 cover_cdn_key = "img/v1/2024/03/es-4634-026"
+cover_alt = "A dirt hiking trail winds through a dense evergreen forest of tall conifers, lined with lush ferns, moss-covered ground, and low green shrubs under a soft overcast morning light."
 +++
 
 Port Gamble Forest Heritage Park, south of Port Gamble, Washington
 
 <!-- more -->
 
-{{ es_cdn_image(id = "es-4634-026", cdn_version = "v1", cdn_key = "img/v1/2024/03/es-4634-026") }}
+{{ es_cdn_image(id = "es-4634-026", cdn_version = "v1", cdn_key = "img/v1/2024/03/es-4634-026", alt = "A dirt hiking trail winds through a dense evergreen forest of tall conifers, lined with lush ferns, moss-covered ground, and low green shrubs under a soft overcast morning light.") }}

@@ -8,12 +8,13 @@ markers = "markers.js"
 bounds = {sw = [47.771, -122.549], ne = [47.791, -122.529]}
 cover = "es-4630-004"
 cover_cdn_key = "img/v1/2024/01/es-4630-004"
+cover_alt = "A narrow dirt trail winds through a misty evergreen forest of tall, moss-covered tree trunks, flanked by lush green sword ferns under a hazy, foggy sky."
 +++
 
 I often go for a morning hike in the woods near my home. This morning's hike in North Kitsap Heritage Park was especially foggy.
 
 <!-- more -->
 
-{{ es_cdn_image(id = "es-4630-004", cdn_version = "v1", cdn_key = "img/v1/2024/01/es-4630-004", caption = "A hiking trail through a forest with moss and ferns on a foggy morning. · North Kitsap Heritage Park, west of Kingston, Washington") }}
+{{ es_cdn_image(id = "es-4630-004", cdn_version = "v1", cdn_key = "img/v1/2024/01/es-4630-004", caption = "A hiking trail through a forest with moss and ferns on a foggy morning. · North Kitsap Heritage Park, west of Kingston, Washington", alt = "A narrow dirt trail winds through a misty evergreen forest of tall, moss-covered tree trunks, flanked by lush green sword ferns under a hazy, foggy sky.") }}
 
-{{ es_cdn_image(id = "es-4630-006", cdn_version = "v1", cdn_key = "img/v1/2024/01/es-4630-006", caption = "A hiking trail through a forest with moss and ferns on a foggy morning. · North Kitsap Heritage Park, west of Kingston, Washington") }}
+{{ es_cdn_image(id = "es-4630-006", cdn_version = "v1", cdn_key = "img/v1/2024/01/es-4630-006", caption = "A hiking trail through a forest with moss and ferns on a foggy morning. · North Kitsap Heritage Park, west of Kingston, Washington", alt = "A narrow dirt trail winds through a misty evergreen forest, flanked by lush green sword ferns, with tall moss-flecked tree trunks rising into fog.") }}
