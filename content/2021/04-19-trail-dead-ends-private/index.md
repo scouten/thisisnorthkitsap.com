@@ -1,5 +1,5 @@
 +++
-title = "Trail Dead Ends – Private"
+title = "Trail Dead Ends — Private"
 date = 2021-04-19T10:27:23.211-07:00
 updated = 2024-03-30T20:34:33-07:00
 

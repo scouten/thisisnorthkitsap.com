@@ -12,7 +12,7 @@ Some of you, I imagine, are reading from places far away. In case you're not sur
 
 _(TO DO: insert nk map, or maybe pull code from 146p for showing where the photos are)_
 
-We are located in western Washington, only a few miles north and west of downtown Seattle. Since there are no bridges across Puget Sound, we rely on ferries -- or the occasional drive through Tacoma -- for transportation to the mainland. This helps keep North Kitsap relatively quiet and rural in nature despite its apparent proximity to the big city.
+We are located in western Washington, only a few miles north and west of downtown Seattle. Since there are no bridges across Puget Sound, we rely on ferries — or the occasional drive through Tacoma — for transportation to the mainland. This helps keep North Kitsap relatively quiet and rural in nature despite its apparent proximity to the big city.
 
 _(Some might question the inclusion of Bainbridge Island as part of North Kitsap, but I live only a few miles from B.I., so I consider it part of my community nonetheless.)_
 
