@@ -8,6 +8,7 @@ markers = "markers.js"
 bounds = {sw = [47.612, -122.518], ne = [47.632, -122.498]}
 cover = "es-4117-011"
 cover_cdn_key = "img/v1/2020/09/es-4117-011"
+cover_alt = "A hazy, smoke-filled view across Puget Sound from the back of a ferry, with the sun glowing dimly through thick wildfire smoke that mutes the whole scene in sepia tones. A black mesh safety net runs across the ferry deck in the foreground, a distant ferry sits on the water, and a forested shoreline is faintly visible on the right."
 +++
 
 One ferry, as seen from another.
@@ -18,4 +19,4 @@ As my mom says, "Everything's pewter out here today."
 
 Ferry from Bainbridge Island to Seattle, Washington
 
-{{ es_cdn_image(id = "es-4117-011", cdn_version = "v1", cdn_key = "img/v1/2020/09/es-4117-011") }}
+{{ es_cdn_image(id = "es-4117-011", cdn_version = "v1", cdn_key = "img/v1/2020/09/es-4117-011", alt = "A hazy, smoke-filled view across Puget Sound from the back of a ferry, with the sun glowing dimly through thick wildfire smoke that mutes the whole scene in sepia tones. A black mesh safety net runs across the ferry deck in the foreground, a distant ferry sits on the water, and a forested shoreline is faintly visible on the right.") }}
