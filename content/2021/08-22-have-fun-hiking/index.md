@@ -8,10 +8,11 @@ markers = "markers.js"
 bounds = {sw = [47.822, -122.601], ne = [47.842, -122.581]}
 cover = "es-4246-059"
 cover_cdn_key = "img/v1/2021/08/es-4246-059"
+cover_alt = "A large fallen log along a trail with “HAVE FUN HIKING!” and a smiley face written on its damp bark in black marker, with bright green ferns and leafy plants growing at its base."
 +++
 
 I'm mostly not a fan of graffiti, but I did appreciate this note from a fellow hiker. 
 
 <!-- more -->
 
-{{ es_cdn_image(id = "es-4246-059", cdn_version = "v1", cdn_key = "img/v1/2021/08/es-4246-059") }}
+{{ es_cdn_image(id = "es-4246-059", cdn_version = "v1", cdn_key = "img/v1/2021/08/es-4246-059", alt = "A large fallen log along a trail with “HAVE FUN HIKING!” and a smiley face written on its damp bark in black marker, with bright green ferns and leafy plants growing at its base.") }}
