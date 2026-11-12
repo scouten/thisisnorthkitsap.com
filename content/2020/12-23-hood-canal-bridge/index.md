@@ -8,10 +8,11 @@ markers = "markers.js"
 bounds = {sw = [47.857, -122.646], ne = [47.877, -122.626]}
 cover = "es-4158-004"
 cover_cdn_key = "img/v1/2020/12/es-4158-004"
+cover_alt = "The steel truss and low floating span of the Hood Canal Floating Bridge stretch across calm water toward distant forested hills, silhouetted against a dramatic winter sunrise of orange, pink, and purple clouds whose colors reflect on the still surface below."
 +++
 
 <!-- more -->
 
 Hood Canal Floating Bridge, south of Port Ludlow, Washington
 
-{{ es_cdn_image(id = "es-4158-004", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4158-004") }}
+{{ es_cdn_image(id = "es-4158-004", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4158-004", alt = "The steel truss and low floating span of the Hood Canal Floating Bridge stretch across calm water toward distant forested hills, silhouetted against a dramatic winter sunrise of orange, pink, and purple clouds whose colors reflect on the still surface below.") }}
