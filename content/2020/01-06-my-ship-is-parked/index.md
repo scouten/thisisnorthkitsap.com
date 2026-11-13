@@ -8,8 +8,9 @@ markers = "markers.js"
 bounds = {sw = [47.565, -122.518], ne = [47.585, -122.498]}
 cover = "es-4068-001"
 cover_cdn_key = "img/v1/2020/01/es-4068-001"
+cover_alt = "A dim blue-hour seascape at dawn on Bainbridge Island, Washington, with a distant ship lit by warm orange lights sitting on the horizon under a hazy sky, while small waves break on a rocky, pebbly shoreline in the foreground."
 +++
 
 <!-- more -->
 
-{{ es_cdn_image(id = "es-4068-001", cdn_version = "v1", cdn_key = "img/v1/2020/01/es-4068-001", caption = "South Beach, Bainbridge Island, Washington") }}
+{{ es_cdn_image(id = "es-4068-001", cdn_version = "v1", cdn_key = "img/v1/2020/01/es-4068-001", caption = "South Beach, Bainbridge Island, Washington", alt = "A dim blue-hour seascape at dawn on Bainbridge Island, Washington, with a distant ship lit by warm orange lights sitting on the horizon under a hazy sky, while small waves break on a rocky, pebbly shoreline in the foreground.") }}
