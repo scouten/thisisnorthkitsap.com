@@ -9,8 +9,9 @@ markers = "markers.js"
 bounds = {sw = [47.587, -122.552], ne = [47.607, -122.532]}
 cover = "es-3828-007"
 cover_cdn_key = "img/v1/2018/10/es-3828-007"
+cover_alt = "Overturned kayaks, paddleboards, and a small dinghy on a trailer rest in tall beach grass along a calm, gray shoreline, with forested hills fading into mist across the water under an overcast sky."
 +++
 
 <!-- more -->
 
-{{ es_cdn_image(id = "es-3828-007", cdn_version = "v1", cdn_key = "img/v1/2018/10/es-3828-007") }}
+{{ es_cdn_image(id = "es-3828-007", cdn_version = "v1", cdn_key = "img/v1/2018/10/es-3828-007", alt = "Overturned kayaks, paddleboards, and a small dinghy on a trailer rest in tall beach grass along a calm, gray shoreline, with forested hills fading into mist across the water under an overcast sky.") }}
